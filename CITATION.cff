@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below, and also cite the Teeth3DS+ dataset."
+title: "DentChart3D: tooth segmentation and automated dental charting on 3D intraoral scans"
+authors:
+  - family-names: "Boustani Hezarani"
+    given-names: "Hossein"
+    orcid: "https://orcid.org/0009-0007-8481-0498"
+version: 0.1.0
+date-released: 2026-11-16
+license: MIT
+repository-code: "https://github.com/Hezarani/dentchart3d"
+keywords:
+  - intraoral scan
+  - dental charting
+  - tooth segmentation
+  - point cloud
+  - DGCNN
+  - PointNet
+  - explainable AI
+  - dentistry
+references:
+  - type: article
+    title: "Teeth3DS+: An Extended Benchmark for Intraoral 3D Scans Analysis"
+    authors:
+      - family-names: "Ben-Hamadou"
+        given-names: "Achraf"
+    year: 2023
+    url: "https://arxiv.org/abs/2210.06094"
